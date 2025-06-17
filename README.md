@@ -1,1 +1,1 @@
-# eda-spotify
+# SPOTIFY
