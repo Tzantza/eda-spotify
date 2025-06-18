@@ -5,7 +5,7 @@ In this project, I’ve compiled and analyzed a dataset with over 500,000 songs 
 The aim of this analysis is to explore how music varies across genres, moods, and years — and ultimately answer key questions about what makes a song feel good, energetic, or relaxing. The analysis focuses on mood-related metrics like valence, energy, and danceability, as well as temporal and genre-based patterns.
 
 ## 📁 Project Structure
-
+```
 eda-spotify/
 ├── data/
 │   ├── spotify_dataset.csv                                 # Dataset that I worked on
@@ -15,7 +15,7 @@ eda-spotify/
 │   └── eda_spotify.ipynb                                   # Jupyter Notebook with the analysis
 ├── archive/
 │   └── 900k-spotify.zip                                    # Original compressed file (optional)
-
+```
 ### 📚 Notebooks Available
 
 - [🇬🇧 English Version](notebooks/spotify_eda_ENG.ipynb)
